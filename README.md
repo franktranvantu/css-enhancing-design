@@ -1,3 +1,5 @@
-Together we’ll be building the CSS for the homepage of a travel website advertising Lake Tahoe, California. 
+Creating functional typography involves making adjustments to sizing and spacing, as well as choosing the right typeface for the job. 
 
-The homepage works with a number of both foreground and background images, introduces web fonts from two different sources, and, importantly, remains legible on a variety of device screens.
+But up until this point we’ve mostly just worked with the browser default typeface, which tends to be Times New Roman. 
+
+That’s because we haven’t learned the `font-family` property, which allows us to choose a different typeface.
