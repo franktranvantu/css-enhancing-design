@@ -1,5 +1,7 @@
-Creating functional typography involves making adjustments to sizing and spacing, as well as choosing the right typeface for the job. 
+Previously, we learned that users viewing our sites need to have the typefaces we choose installed on their computers. 
 
-But up until this point we’ve mostly just worked with the browser default typeface, which tends to be Times New Roman. 
+Otherwise, the browser will not display them. 
 
-That’s because we haven’t learned the `font-family` property, which allows us to choose a different typeface.
+Besides the limited number of web-safe typefaces installed on a user's computer, we're also able to provide our own fonts by importing web fonts. 
+
+Web fonts are special types of fonts that are optimized for screen display, and they're linked to our web pages from an external source, then activated when needed.
