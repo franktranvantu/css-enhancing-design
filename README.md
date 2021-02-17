@@ -1,7 +1,3 @@
-In this course, we're going to learn CSS properties for enhancing visual design. 
+Together we’ll be building the CSS for the homepage of a travel website advertising Lake Tahoe, California. 
 
-We’ll cover various properties for styling text, including loading web fonts from external resources. 
-
-We’ll learn techniques for turning our CSS boxes into more than just rectangles. 
-
-Finally, we’ll learn some really cool visual effects using CSS filters and gradients.
+The homepage works with a number of both foreground and background images, introduces web fonts from two different sources, and, importantly, remains legible on a variety of device screens.
